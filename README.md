@@ -4,7 +4,7 @@
 
 ![JavaScript Eloquente](img/eloq-js.png)
 
-## Conteúdo do Livro
+## Conteúdo do Livroclear
 
 [Introdução](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/00-introducao.md)
 
